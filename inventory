@@ -1,8 +1,0 @@
-# inventory
-
-[webservers]
-web1 ansible_host=192.168.0.155
-web2 ansible_host=192.168.0.157
-
-[loadbalancers]
-lb1 ansible_host=192.168.0.158
